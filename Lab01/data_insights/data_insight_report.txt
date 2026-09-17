@@ -1,0 +1,35 @@
+GOODREADS DATA INSIGHT REPORT
+======================================================================
+
+Total number of books: 1998
+Total number of columns: 9
+
+RATING INSIGHTS
+----------------------------------------
+Average rating: 4.05
+Highest rating: 5.00
+Lowest rating: 3.05
+Median rating: 4.06
+
+POPULARITY INSIGHTS
+----------------------------------------
+Average ratings count: 322020.99
+Maximum ratings count: 11788516
+Minimum ratings count: 6
+
+AUTHOR INSIGHTS
+----------------------------------------
+Unique authors: 1160
+
+Top 10 authors:
+Agatha Christie: 31 books
+Stephen King: 26 books
+John Grisham: 16 books
+Lee Child: 15 books
+Jodi Picoult: 13 books
+J.K. Rowling: 12 books
+Michael Connelly: 12 books
+Karin Slaughter: 11 books
+Cassandra Clare: 11 books
+Chuck Palahniuk: 10 books
+

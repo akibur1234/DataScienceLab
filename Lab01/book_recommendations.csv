@@ -1,0 +1,6 @@
+﻿book_name,author,Cluster,rating_value,rating_count,meta_score_num,number_of_voted_num,Distance
+Gone Girl,Gillian Flynn,2,4.15,3551945,74921,778,0.5042774998218128
+"The Girl With the Dragon Tattoo (Millennium, #1)",Stieg Larsson,2,4.18,3523760,51206,541,0.7060879721385458
+My Sister's Keeper,Jodi Picoult,2,4.11,1291035,56739,573,0.7361675535947995
+Shutter Island,Dennis Lehane,2,4.14,239018,61833,645,0.8891783928890505
+Fight Club,Chuck Palahniuk,2,4.18,663290,43987,456,0.9475217602313832
